@@ -5,7 +5,7 @@
     <title>诗一首</title>
 </head>
 <body>
-   <img src="2222.png">
+   <img src="./images/2222.png">
 <h1>aaa</h1>
 <p>bbbbbb</p>
 <p>cccccc</p>
